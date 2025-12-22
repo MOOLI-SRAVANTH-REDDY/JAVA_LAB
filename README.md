@@ -30,7 +30,7 @@ System.out.println("Default boolean value:"+obj.bool);
 
 ## OUTPUT
 
-[output](Primitive.png)
+![output](Primitive.png)
 
 
 
