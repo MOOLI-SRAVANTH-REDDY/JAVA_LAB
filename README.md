@@ -34,7 +34,7 @@ System.out.println("Default boolean value:"+obj.bool);
 
 
 
-##Experiment 1b
+## Experiment 1b
 ## Quadratic equation
 ```java
 
