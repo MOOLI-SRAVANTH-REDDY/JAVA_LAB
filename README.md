@@ -1,6 +1,6 @@
 # JAVA_LAB
 ## Experiment 1a
-## title:PRIMITIVE DATA TYPES
+## TITLE:PRIMITIVE DATA TYPES
 ``` java
 public class Defaultvalues{
 byte b;
@@ -29,6 +29,8 @@ System.out.println("Default boolean value:"+obj.bool);
 
 
 ## OUTPUT
+
+[output](Primitive.png)
 
 
 
