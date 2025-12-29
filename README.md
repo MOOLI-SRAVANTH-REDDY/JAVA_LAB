@@ -90,8 +90,8 @@ System.out.println("Root 2="+real+"-i"+imaginary);
 
 
 
-##EXPERIMENT 2A
-##TITLE: MAIN METHOD
+## EXPERIMENT 2A
+## TITLE: MAIN METHOD
 ```java
 class Myclass
 {
@@ -118,7 +118,7 @@ System.out.println("sum of two numbers:"+result);
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
