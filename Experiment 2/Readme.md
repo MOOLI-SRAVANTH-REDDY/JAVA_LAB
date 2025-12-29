@@ -32,3 +32,43 @@ System.out.println("sum of two numbers:"+result);
 
 
 ![output of main method](Myclass.png)
+
+
+## EXPERIMENT2B
+## TITLE :OVERLOADING
+```java
+
+class OverloadExample
+{
+int add(int a,int b)
+{
+return a+b;
+}
+double add(double a,double b)
+{
+return a+b;
+}
+int add(int a,int b,int c)
+{
+return a+b+c;
+}
+public static void main(String []args)
+{
+OverloadExample obj=new OverloadExample();
+int sumTwoInts =obj.add(10,20);
+double sumTwodoubles=obj.add(4.5,5.5);
+int sumThreeInts=obj.add(10,20,30);
+System.out.println("sum of two integers are:"+sumTwoInts);
+System.out.println("sum of two doubles are:"+sumTwodoubles);
+System.out.println("sum of three integers are:"+sumThreeInts);
+}
+}
+
+```
+
+## OUTPUT
+
+
+
+
+![output](.png)
