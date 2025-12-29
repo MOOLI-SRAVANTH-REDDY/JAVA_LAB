@@ -29,3 +29,6 @@ System.out.println("sum of two numbers:"+result);
 
 
 ## OUTPUT
+
+
+![output of main method](Myclass.png)
