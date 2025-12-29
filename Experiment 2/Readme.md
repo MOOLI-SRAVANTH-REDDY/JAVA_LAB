@@ -72,3 +72,41 @@ System.out.println("sum of three integers are:"+sumThreeInts);
 
 
 ![output](Overload.png)
+
+
+
+## EXPERIMENT2C
+## TITLE:Constructor
+```java
+class Student
+{
+String name;
+int age;
+int marks;
+Student( String n,int a, int m)
+{
+name=n;
+age=a;
+marks=m;
+}
+void display()
+{
+System.out.println("Name:"+name);
+System.out.println("Age:"+age);
+System.out.println("Marks:"+marks);
+}
+public static void main (String []args)
+{
+Student s1=new Student("Alice",20,85);
+s1.display();
+}
+}
+
+
+```
+
+
+## OUTPUT
+
+
+![output](.png)
