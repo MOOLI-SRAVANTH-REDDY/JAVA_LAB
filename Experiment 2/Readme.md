@@ -113,4 +113,4 @@ s1.display();
 ## OUTPUT
 
 
-![output](Constructor.png)
+![output](Student.png)
