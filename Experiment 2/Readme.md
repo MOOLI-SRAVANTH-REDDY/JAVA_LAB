@@ -97,6 +97,8 @@ System.out.println("Name:"+name);
 System.out.println("Age:"+age);
 System.out.println("Marks:"+marks);
 }
+}
+public class Main{
 public static void main (String []args)
 {
 Student s1=new Student("Alice",20,85);
