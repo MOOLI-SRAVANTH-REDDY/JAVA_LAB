@@ -13,6 +13,8 @@ int add(int a,int b)
 {
 return a+b;
 }
+}
+public class Mainclass{
 public static void main(String []args)
 {
 Myclass obj=new Myclass();
@@ -31,7 +33,7 @@ System.out.println("sum of two numbers:"+result);
 ## OUTPUT
 
 
-![output of main method](Myclass.png)
+![output of main method](MyClass.png)
 
 
 ## EXPERIMENT2B
