@@ -2,7 +2,7 @@
 ## EXPERIMENT 1
 ## TITLE:FIBONACCI
 ```java
-## SOURCE CODE
+## SOURCECODE
 import java.util.Scanner;
 
 class Fibonacci {
@@ -54,3 +54,9 @@ class Fibonacci {
 }
 
 ```
+
+
+
+## OUTPUT
+
+![output](Fibonacci.png
