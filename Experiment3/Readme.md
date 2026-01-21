@@ -47,5 +47,5 @@ public class Student1Main {
 
 
 
+![output of main method](Constructor.png)
 
-![output]
