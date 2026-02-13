@@ -48,7 +48,7 @@ public class TestEmployee {
 ```
 ## OUTPUT
 
-![output](single inheritance.png)
+![output of main method](single inheritance.png)
 
 
 
