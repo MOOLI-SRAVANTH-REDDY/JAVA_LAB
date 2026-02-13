@@ -96,3 +96,15 @@ public class TestVehicle {
 }
 
 
+```
+
+## OUTPUT
+
+
+
+
+![output](multi level inheritance.png)
+
+
+
+
