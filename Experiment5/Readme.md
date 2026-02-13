@@ -73,7 +73,7 @@ public class TestSort {
 
 
 ## OUTPUT
-
+![output](Interface.png)
 
 
 
@@ -114,7 +114,7 @@ public class TestVehicle {
 
 ```
 ## OUTPUT
-
+![output](Polymorphism.png)
 
 
 
@@ -145,4 +145,6 @@ public class DeleteStringBuffer {
 
 ```
 ## OUTPUT
+
+![ouput](StringBuffer.png)
 
