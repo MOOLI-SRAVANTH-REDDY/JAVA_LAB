@@ -107,5 +107,63 @@ public class TestVehicle {
 ![output](multilevel.png)
 
 
+## EXPERIMENT 4C
+## TITLE: ABSTRACT
 
+```java
+
+##abstract Class:
+public abstract class Figure {
+    double dim1;
+    double dim2;
+
+    Figure(double dim1, double dim2) {
+        this.dim1 = dim1;
+        this.dim2 = dim2;
+    }
+
+
+    abstract double area();
+}
+
+
+public class Rectangle extends Figure {
+
+    public Rectangle(double length, double breadth) {
+        super(length, breadth);
+    }
+
+    double area() {
+        return dim1 * dim2;
+    }
+}
+
+
+public class Triangle extends Figure {
+
+
+    Triangle(double base, double height) {
+        super(base, height);
+    }
+
+
+    double area() {
+        return 0.5 * dim1 * dim2;
+    }
+}
+public class TestFigure {
+    public static void main(String[] args) {
+
+        Figure f1 = new Rectangle(10, 5);
+        System.out.println("Area of Rectangle = " + f1.area());
+
+        Figure f2 = new Triangle(8, 6);
+        System.out.println("Area of Triangle = " + f2.area());
+    }
+}
+
+```
+
+## OUTPUT
+![ouput](Abstract.png)
 
